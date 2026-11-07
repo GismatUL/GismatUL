@@ -19,6 +19,7 @@ I also mentor web development students at the National Aviation Academy.
 #### Professional work (private repos)
 - **e-audit.gov.az** — electronic system of the Chamber of Auditors of Azerbaijan
 - **icaze-audit.gov.az** — licensing system for audit services
-- E-commerce platforms and public-sector websites
+- **[digitalhome.az](https://digitalhome.az)** — e-commerce store built from scratch, with a custom live chat that routes customer messages to Telegram and replies back
+- Other e-commerce platforms and public-sector websites
 
 📫 [LinkedIn](https://www.linkedin.com/in/gismat-mammadov-3a94a1172/) · Open to remote work
